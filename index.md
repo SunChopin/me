@@ -62,7 +62,7 @@ Participation in development of statistical shape modeling of trunk anatomy for 
   <br>
   **Journal of anatomy**.
   <br>
-  [[Link](https://onlinelibrary.wiley.com/doi/10.1111/joa.12815)]
+  [[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987821/)]
 
 - **Dosimetric comparison using the human models reconstructed by precise segmentation, tissue simplification and template based registration**
   <br>
