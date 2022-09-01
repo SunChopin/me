@@ -4,47 +4,59 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Ph.D. student at Faculty of Information Technology at [University of Jyväskylä](https://www.jyu.fi/it/fi), supervised by [Prof. Timo Hämäläinen](http://users.jyu.fi/~timoh/). Meanwhile, I also work closely with [Prof. Hongkai Wang](http://faculty.dlut.edu.cn/2014011045/en/index.htm). I obtained M.E. in Biomedical Engineering and B.E. in Mechanical Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/) and [Sichuan University](https://en.scu.edu.cn/), respectively. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+**Medical Image Analysis, Machine Learning, Computational Anatomy Modelling.** 
 
-## News
+## Project Experience 
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Research Collaborator with Siemens Shanghai Medical Equipment Company Ltd, Shanghai China**
+  <br>
+  Participation in development of fully automatic diagnosis scanner system for Siemens Healthineers. My role included developing and validating data-driven pipeline for estimating major organ location from outer body surface.
+  <br>
 
+- **Research Collaborator with INTESIM Company Ltd, Dalian China**
+  <br>
+  Participation in biomechanical simulation for designing population-oriented ergonomic device. My role included developing a finite element spine model incorporating adjustable shape deformation and material distribution parameters learned from image dataset.
+  <br>
+ 
+ - **Research Collaborator with BOE Healthcare Company Ltd, Beijing China**
+  <br>
+  Participation in development of mobile app (translation in ”digital body”, available in Apple Store) for customized healthcare service platform. My role included developing a digital twin generation pipeline of whole-body anatomy given user’s metadata (height, weight and BMI) for 3D visualization in assisting interpretation of medical examination report.
+  <br>
+  
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **A Statistical Model of Spine Shape and Material for Population-Oriented Biomechanical Simulation**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Xiaobang Sun**, Hongkai Wang, Weiying Wang, et al.
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  **IEEE ACCESS**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Link](https://ieeexplore.ieee.org/iel7/6287639/9312710/09618930.pdf)] 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Registration-based Construction of a Whole-body Human Phantom Library for Anthropometric Modeling**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Xiaobang Sun**, Hongkai Wang, Tapani Ristaniemi
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society. **EMBC 2020**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9175295)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Deformable torso phantoms of Chinese adults for personalized anatomy modelling**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  Hongkai Wang, **Xiaobang Sun**, Tongning Wu, et al.
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  **Journal of anatomy**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/joa.12815)]
 
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- **Dosimetric comparison using the human models reconstructed by precise segmentation, tissue simplification and template based registration**
+  <br>
+  Congsheng Li, **Xiaobang Sun**, Tongning Wu
+  <br>
+  12th European Conference on Antennas and Propagation. **EuCAP 2018**.
+  <br>
+  [[Link](https://digital-library.theiet.org/content/conferences/10.1049/cp.2018.0494)]
