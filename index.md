@@ -18,25 +18,25 @@ Medical Image Analysis, Machine Learning, Computational Anatomy Modelling.
   <br>
   Participation in development of fully automatic diagnosis scanner system for Siemens Healthineers. My role included developing and validating data-driven pipeline for estimating major organ location from outer body surface.
   <br>
-  <img src="/assets/pipeline.PNG" width="400" height="200">
+  <img src="/assets/pipeline.PNG" alt="automatic scanning system" width="400" height="200">
   
 - **Research Collaborator with INTESIM Company Ltd, Dalian China**
   <br>
   Participation in biomechanical simulation for designing population-oriented ergonomic device. My role included developing a finite element spine model incorporating adjustable shape deformation and material distribution parameters learned from image dataset.
   <br>
-  <img src="/assets/flow.png" width="400" height="200">
+  <img src="/assets/flow.png" alt="deformable spine modelling" width="400" height="200">
   
 - **Research Collaborator with BOE Healthcare Company Ltd, Beijing China**
   <br>
 Participation in development of app [数字人体](https://apps.apple.com/cn/app/%E6%95%B0%E5%AD%97%E4%BA%BA%E4%BD%93/id1474729526) (translation in ”digital body”, available at Apple Store) for customized healthcare service platform. My role included developing a digital twin generation pipeline of whole-body anatomy given user’s metadata (height, weight and BMI) for 3D visualization in assisting interpretation of medical examination report.
   <br>
-  <img src="/assets/lib.gif" width="400" height="200">
+  <img src="/assets/lib.gif" alt="parametric human body library" width="400" height="200">
   
 - **Research Collaborator with Institute of Digital Medicine, Chongqing China**
   <br>
 Participation in development of statistical shape modeling of trunk anatomy for personalized digital twin generation.
   <br>
-  <img src="/assets/ssm.gif" width="200" height="200">
+  <img src="/assets/ssm.gif" alt="statistical shape modelling" width="200" height="200">
   
 ## Publications
 
@@ -62,7 +62,7 @@ Participation in development of statistical shape modeling of trunk anatomy for 
   <br>
   **Journal of anatomy**.
   <br>
-  [[Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/joa.12815)]
+  [[Link](https://onlinelibrary.wiley.com/doi/10.1111/joa.12815)]
 
 - **Dosimetric comparison using the human models reconstructed by precise segmentation, tissue simplification and template based registration**
   <br>
