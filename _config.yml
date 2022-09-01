@@ -8,7 +8,7 @@ email: xsun@jyu.fi
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal academic
 description: Xiaobang Sun is a Ph.D. candidate at faculty of information technology at University of Jyväskylä. His research lies in computational anatomy modelling and machine learning in healthcare.
-canonical: https://chopin-sun.net/
+# canonical: https://chopin-sun.net/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
