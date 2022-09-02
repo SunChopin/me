@@ -30,13 +30,13 @@ Medical Image Analysis, Machine Learning, Computational Anatomy Modelling.
   <br>
 Participation in development of app [数字人体](https://apps.apple.com/cn/app/%E6%95%B0%E5%AD%97%E4%BA%BA%E4%BD%93/id1474729526) (translation in ”digital body”, available at Apple Store) for customized healthcare service platform. My role included developing a digital twin generation pipeline of whole-body anatomy given user’s metadata (height, weight and BMI) for 3D visualization in assisting interpretation of medical examination report.
   <br>
-  <img src="/assets/lib.gif" alt="parametric human body library" width="400" height="200">
+  <img src="./assets/lib.gif" alt="parametric human body library" width="400" height="200">
   
 - **Research Collaborator with Institute of Digital Medicine, Chongqing China**
   <br>
 Participation in development of statistical shape modeling of trunk anatomy for personalized digital twin generation.
   <br>
-  <img src="/assets/ssm.gif" alt="statistical shape modelling" width="200" height="200">
+  <img src="./assets/ssm.gif" alt="statistical shape modelling" width="200" height="200">
   
 ## Publications
 
