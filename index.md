@@ -18,13 +18,13 @@ Medical Image Analysis, Machine Learning, Computational Anatomy Modelling.
   <br>
   Participation in development of fully automatic diagnosis scanner system for Siemens Healthineers. My role included developing and validating data-driven pipeline for estimating major organ location from outer body surface.
   <br>
-  <img src="/assets/pipeline.PNG" alt="automatic scanning system" width="400" height="200">
+  <img src="./assets/pipeline.PNG" alt="automatic scanning system" width="400" height="200">
   
 - **Research Collaborator with INTESIM Company Ltd, Dalian China**
   <br>
   Participation in biomechanical simulation for designing population-oriented ergonomic device. My role included developing a finite element spine model incorporating adjustable shape deformation and material distribution parameters learned from image dataset.
   <br>
-  <img src="/assets/flow.png" alt="deformable spine modelling" width="400" height="200">
+  <img src="./assets/flow.png" alt="deformable spine modelling" width="400" height="200">
   
 - **Research Collaborator with BOE Healthcare Company Ltd, Beijing China**
   <br>
