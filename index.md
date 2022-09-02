@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. student at Faculty of Information Technology at [University of Jyväskylä](https://www.jyu.fi/it/fi), supervised by [Prof. Timo Hämäläinen](http://users.jyu.fi/~timoh/). Meanwhile, I also work closely with [Prof. Hongkai Wang](http://faculty.dlut.edu.cn/2014011045/en/index.htm). I obtained M.E. in Biomedical Engineering and B.E. in Mechanical Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/) and [Sichuan University](https://en.scu.edu.cn/), respectively. 
-
-**I am looking for the industrial position as data scientist or machine learning engineer.**
+I am currently a Ph.D. student at Faculty of Information Technology at [University of Jyväskylä](https://www.jyu.fi/it/fi), supervised by [Prof. Timo Hämäläinen](http://users.jyu.fi/~timoh/). Meanwhile, I also work closely with [Prof. Hongkai Wang](http://faculty.dlut.edu.cn/2014011045/en/index.htm) in the [Medical Imaging Group](https://biomedimg-dlut-edu.cn/index.html). I obtained M.E. in Biomedical Engineering and B.E. in Mechanical Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/) and [Sichuan University](https://en.scu.edu.cn/), respectively. 
 
 ## Research Interests
 
@@ -30,11 +28,11 @@ Medical Image Analysis, Machine Learning, Computational Anatomy Modelling.
   <br>
 Participation in development of app [数字人体](https://apps.apple.com/cn/app/%E6%95%B0%E5%AD%97%E4%BA%BA%E4%BD%93/id1474729526) (translation in ”digital body”, available at Apple Store) for customized healthcare service platform. My role included developing a digital twin generation pipeline of whole-body anatomy given user’s metadata (height, weight and BMI) for 3D visualization in assisting interpretation of medical examination report.
   <br>
-  <img src="./assets/lib.gif" alt="parametric human body library" width="400" height="200">
+  <img src="./assets/lib.gif" alt="parametric human body library" width="320" height="200">
   
 - **Research Collaborator with Institute of Digital Medicine, Chongqing China**
   <br>
-Participation in development of statistical shape modeling of trunk anatomy for personalized digital twin generation.
+Participation in development of statistical shape modeling of trunk anatomy for personalized digital twin generation. My role included data collection, image processing, feature extration and statistical modelling.
   <br>
   <img src="./assets/ssm.gif" alt="statistical shape modelling" width="200" height="200">
   
@@ -50,7 +48,7 @@ Participation in development of statistical shape modeling of trunk anatomy for 
 
 - **Registration-based Construction of a Whole-body Human Phantom Library for Anthropometric Modeling**
   <br>
-  **Xiaobang Sun**, Hongkai Wang, Tapani Ristaniemi
+  **Xiaobang Sun**, Hongkai Wang, Tapani Ristaniemi.
   <br>
   42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society. **EMBC 2020**.
   <br>
@@ -66,7 +64,7 @@ Participation in development of statistical shape modeling of trunk anatomy for 
 
 - **Dosimetric comparison using the human models reconstructed by precise segmentation, tissue simplification and template based registration**
   <br>
-  Congsheng Li, **Xiaobang Sun**, Tongning Wu
+  Congsheng Li, **Xiaobang Sun**, Tongning Wu.
   <br>
   12th European Conference on Antennas and Propagation. **EuCAP 2018**.
   <br>
